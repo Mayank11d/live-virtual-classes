@@ -1,0 +1,19 @@
+.container{
+    height: 400px;
+    width: 500px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 13%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+form{
+    border: 7px solid lightblue;
+    padding: 50px;
+    background: rgb(11, 11, 46);
+    color: white;
+    border-radius: 7px;
+}

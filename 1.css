@@ -1,0 +1,30 @@
+img{
+    object-fit: contain;
+    height: 660px;
+    
+    background-color: black; 
+}
+.card{
+   height: 400px;  
+}
+.card-img-top{
+    height: 200px;
+    
+}
+.card{
+    background-color: lightseagreen;
+}
+.container-fluid{
+    background-color: lightseagreen;
+    
+}
+h2{
+    background-color: lightseagreen;
+    color: white;
+}
+#carouselExample{
+    margin-top: 0;
+}
+#carouselExample{
+    height: 600px;
+}
